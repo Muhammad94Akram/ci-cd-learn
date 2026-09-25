@@ -12,3 +12,11 @@ this project!
 5. Respond to review feedback.
 6. Merge after approval and passing
    required checks.
+
+## Reporting Issues
+
+If you find a bug, please open an issue
+with:
+- A clear description of the problem
+- Steps to reproduce the issue
+- Expected and actual behavior
