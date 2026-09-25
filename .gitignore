@@ -2,10 +2,5 @@
 /vendor/*
 /logs/*
 !/logs/empty
-/.idea/.gitignore
-/.idea/amazonq.xml
-/.idea/ci-cd-learn.iml
-/.idea/modules.xml
-/.idea/php.xml
-/.idea/vcs.xml
+/.idea/
 /Screenshot 2026-09-24 212920.png
