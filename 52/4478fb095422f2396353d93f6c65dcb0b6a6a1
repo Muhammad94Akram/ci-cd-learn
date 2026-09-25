@@ -1,0 +1,14 @@
+CONTRIBUTING.md
+  h_7a34f3b09220fd 1-14
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "524478fb095422f2396353d93f6c65dcb0b6a6a1",
+  "prompts": {},
+  "humans": {
+    "h_7a34f3b09220fd": {
+      "author": "muhammad akram <muhammad94akram@gmail.com>"
+    }
+  }
+}
