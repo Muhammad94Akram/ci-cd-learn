@@ -1,0 +1,14 @@
+.gitignore
+  h_7a34f3b09220fd 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "83bd0430ccd6163226417c515325845be883e377",
+  "prompts": {},
+  "humans": {
+    "h_7a34f3b09220fd": {
+      "author": "muhammad akram <muhammad94akram@gmail.com>"
+    }
+  }
+}
